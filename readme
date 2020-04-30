@@ -4,6 +4,9 @@ Kirthan M Puttegowda
 This is a java application
 Run the main class, it will trigger every 30 seconds a spin based on users available and their bets as per rouletteplayers text file under resources.
 
+You can change timeout in main class to lower for quick visibility
+
+Project coding ended at 12.14Pm on 04/30/2020
 Note:
 This reads up a file and triggers timer.
 A little different than what is specified in pdf, I can refactor this to command line input.
