@@ -1,2 +1,12 @@
 Project started. 11.44Am 04/30/2020
 Kirthan M Puttegowda
+
+This is a java application
+Run the main class, it will trigger every 30 seconds a spin based on users available and their bets as per rouletteplayers text file under resources.
+
+Note:
+This reads up a file and triggers timer.
+A little different than what is specified in pdf, I can refactor this to command line input.
+But I feel this is more user friendly.
+
+Please let me know if you want me to refactor. This should be an additional 10 minutes task. I'm leaving this due to time constraints
